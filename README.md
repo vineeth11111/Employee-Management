@@ -11,4 +11,4 @@ Controller --->    Service Layer  --->  DAO Layer    ---> Hibernate(make use of 
 
 
 
-
+Here in this project I made use of Technologies like HTML,CSS,Spring MVC, MVC Forms,Hibernate.
