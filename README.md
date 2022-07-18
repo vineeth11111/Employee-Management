@@ -12,3 +12,6 @@ Controller --->    Service Layer  --->  DAO Layer    ---> Hibernate(make use of 
 
 
 Here in this project I made use of Technologies like HTML,CSS,Spring MVC, MVC Forms,Hibernate.
+
+
+You can just download the project and import project into Java EE IDE and just Run on Server.
